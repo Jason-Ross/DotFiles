@@ -1,0 +1,5 @@
+set column_ratios 1,2,3
+set show_hidden true
+open_with vim
+open_with 
+delete

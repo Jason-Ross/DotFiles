@@ -1,0 +1,4 @@
+set show_hidden true
+set colorscheme jungle
+set column_ratios 1,2,3,4
+set confirm_on_delete always
